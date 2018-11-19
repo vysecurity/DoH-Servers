@@ -1,1 +1,20 @@
-"# DoH-Servers" 
+dns.api.gandi.net
+dns.api.globus.org
+dns.api.integration.globuscs.info
+dns.api.preview.globus.org
+dns.api.rackspacecloud.com
+dns.api.sandbox.globuscs.info
+dns.api.staging.globuscs.info
+dns.api.test.globuscs.info
+dns.beta.gandi.net
+dns.cloudfiction.eu
+dns.cloudflare.com
+dns.eu-frankfurt-1.oraclecloud.com
+dns.google.com
+dns.islandnet.com
+dns.onp.cloud
+dns.quad9.net
+dns.tuna.tsinghua.edu.cn
+dns.uk-london-1.oraclecloud.com
+dns.us-ashburn-1.oraclecloud.com
+dns.us-phoenix-1.oraclecloud.com
