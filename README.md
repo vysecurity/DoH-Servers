@@ -1,4 +1,4 @@
-dns.api.gandi.net
+```dns.api.gandi.net
 dns.api.globus.org
 dns.api.integration.globuscs.info
 dns.api.preview.globus.org
@@ -18,3 +18,4 @@ dns.tuna.tsinghua.edu.cn
 dns.uk-london-1.oraclecloud.com
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
+```
